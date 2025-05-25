@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "name": "aa",
+      "position": {
+        "x": 469,
+        "y": 315
+      },
+      "connections": []
+    }
+  ],
+  "shapes": [],
+  "lines": [
+    {
+      "x1": 584,
+      "y1": 331,
+      "x2": 1097,
+      "y2": 386
+    }
+  ],
+  "backgroundColor": -1118482,
+  "nodeColor": -16777216,
+  "nodeFont": "Arial"
+}
